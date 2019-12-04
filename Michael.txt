@@ -1,0 +1,10 @@
+Michael Maged
+
+Git commands:
+git clone
+gti add
+git commit -m
+git status
+git log
+git push 
+git pull
